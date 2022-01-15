@@ -35,6 +35,9 @@
 #clients{
     flex-wrap: wrap;
 }
+.client-item{
+    padding: 18px;
+}
 #clients img{
     width: 55px;
      height: auto;
